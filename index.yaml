@@ -20,6 +20,6 @@ entries:
     name: my-helm-chart
     type: application
     urls:
-    - https://NaveenBalagouni.github.io/helm-repo/my-helm-chart/my-helm-chart-0.2.0.tgz
+    - https://NaveenBalagouni.github.io/helm-repo/my-helm-chart-0.2.0.tgz
     version: 0.2.0
 generated: "2024-12-25T18:05:52.3973829+05:30"
