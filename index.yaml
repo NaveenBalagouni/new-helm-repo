@@ -3,23 +3,23 @@ entries:
   my-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-25T17:57:26.3035193+05:30"
+    created: "2024-12-25T18:05:52.3986419+05:30"
     description: A Helm chart for Kubernetes
     digest: 762aafaaf92807e41324befd8b8fced368e1c18a43bee0c2fa706b77adf4c282
     name: my-helm
     type: application
     urls:
-    - https://NaveenBalagouni.github.io/new-helm-repo/my-helm-0.1.0.tgz
+    - https://NaveenBalagouni.github.io/helm-repo/my-helm-chart/my-helm-0.1.0.tgz
     version: 0.1.0
   my-helm-chart:
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2024-12-25T17:57:26.3041263+05:30"
+    created: "2024-12-25T18:05:52.3992516+05:30"
     description: A Helm chart for Kubernetes
     digest: 54aad2699fd2eff0c64a6dc78c281edab902015a9740af49b0b1c5722961bfea
     name: my-helm-chart
     type: application
     urls:
-    - https://NaveenBalagouni.github.io/new-helm-repo/my-helm-chart-0.2.0.tgz
+    - https://NaveenBalagouni.github.io/helm-repo/my-helm-chart/my-helm-chart-0.2.0.tgz
     version: 0.2.0
-generated: "2024-12-25T17:57:26.3002449+05:30"
+generated: "2024-12-25T18:05:52.3973829+05:30"
