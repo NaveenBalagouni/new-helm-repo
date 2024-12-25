@@ -9,7 +9,7 @@ entries:
     name: my-helm
     type: application
     urls:
-    - https://NaveenBalagouni.github.io/helm-repo/my-helm/my-helm-0.1.0.tgz
+    - https://NaveenBalagouni.github.io/helm-repo/my-helm-0.1.0.tgz
     version: 0.1.0
   my-helm-chart:
   - apiVersion: v2
