@@ -3,7 +3,7 @@ entries:
   my-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-25T17:16:35.7262548+05:30"
+    created: "2024-12-25T17:35:12.5705089+05:30"
     description: A Helm chart for Kubernetes
     digest: 762aafaaf92807e41324befd8b8fced368e1c18a43bee0c2fa706b77adf4c282
     name: my-helm
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://NaveenBalagouni.github.io/new-helm-repo/my-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-25T17:16:35.7234115+05:30"
+generated: "2024-12-25T17:35:12.564185+05:30"
